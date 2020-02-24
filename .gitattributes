@@ -4,3 +4,10 @@ discrete_math/week1-3.pdf filter=lfs diff=lfs merge=lfs -text
 discrete_math/week2-1.pdf filter=lfs diff=lfs merge=lfs -text
 discrete_math/week2-2.pdf filter=lfs diff=lfs merge=lfs -text
 discrete_math/week2-3.pdf filter=lfs diff=lfs merge=lfs -text
+discrete_math/week5-2.pdf filter=lfs diff=lfs merge=lfs -text
+discrete_math/week5-3.pdf filter=lfs diff=lfs merge=lfs -text
+discrete_math/week6.pdf filter=lfs diff=lfs merge=lfs -text
+discrete_math/week4-1.pdf filter=lfs diff=lfs merge=lfs -text
+discrete_math/week4-2.pdf filter=lfs diff=lfs merge=lfs -text
+discrete_math/week4-3.pdf filter=lfs diff=lfs merge=lfs -text
+discrete_math/week5-1.pdf filter=lfs diff=lfs merge=lfs -text
